@@ -1,0 +1,20 @@
+body {
+	text-align:center;
+}
+#box {
+	display:block;
+	width:500px;
+	margin:50px auto;
+	padding:15px;
+	text-align:center;
+	border:1px solid green;
+	background:orange;
+	-webkit-border-radius:25px;
+	
+
+	
+}
+#meat {
+	font:bold 30px tahoma;
+	text-shadow:rgb(60,60,60) 4px 4px 10px;
+}
